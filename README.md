@@ -6,6 +6,7 @@ This project demonstrates a production-style CI/CD pipeline built around a 2-tie
 
 ci-cd-docker-project/
 │
+
 ├── backend/
 │   ├── app.py
 │   ├── requirements.txt
