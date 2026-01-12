@@ -71,3 +71,13 @@ DB_PASSWORD=staging_pass
 DB_NAME=staging_db
 FLASK_ENV=staging
 ```
+
+## CI/CD Pipeline Stages
+
+1. Checkout source code
+2. Build Docker images
+3. Run unit tests (inside containers)
+4. Scan images using Trivy
+5. Tag & push images to registry
+6. Deploy to staging environment
+7. Health checks & verification
