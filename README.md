@@ -4,20 +4,14 @@ This project demonstrates a production-style CI/CD pipeline built around a 2-tie
 
 ## Project Structure
 
+```
 ci-cd-docker-project/
-
 │
-
 ├── backend/
-
 │   ├── app.py
-
 │   ├── requirements.txt
-
 │   ├── Dockerfile
-
 │   └── tests/
-
 │       └── test_health.py
 │
 ├── frontend/
@@ -40,3 +34,5 @@ ci-cd-docker-project/
 │       └── ci-cd.yml
 │
 └── README.md
+
+```
