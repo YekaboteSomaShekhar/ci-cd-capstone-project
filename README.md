@@ -60,3 +60,14 @@ ci-cd-docker-project/
 | Target Environment    | Staging                               |
 | Deployment            | Shell scripts                         |
 
+## Environment Configuration
+
+Environment variables stored via `.env.staging` such as:
+
+```
+DB_HOST=db
+DB_USER=staging_user
+DB_PASSWORD=staging_pass
+DB_NAME=staging_db
+FLASK_ENV=staging
+```
