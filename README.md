@@ -45,3 +45,18 @@ ci-cd-docker-project/
 
 <img width="1157" height="474" alt="Screenshot 2026-01-12 203415" src="https://github.com/user-attachments/assets/bdf381a4-fe43-40f5-b234-c8b702e9bba4" />
 
+## Technology Stack
+
+| Category              | Tools                                 |
+| --------------------- | ------------------------------------- |
+| Frontend              | Nginx + static HTML/CSS/JS (or React) |
+| Backend               | Flask (Python) / Express.js (Node.js) |
+| Database              | PostgreSQL                            |
+| Container Runtime     | Docker                                |
+| Orchestration (Local) | Docker Compose                        |
+| CI/CD                 | GitHub Actions / Jenkins              |
+| Security Scanning     | Trivy                                 |
+| Registry              | Docker Hub (or ECR/GCR)               |
+| Target Environment    | Staging                               |
+| Deployment            | Shell scripts                         |
+
