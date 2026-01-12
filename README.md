@@ -81,3 +81,15 @@ FLASK_ENV=staging
 5. Tag & push images to registry
 6. Deploy to staging environment
 7. Health checks & verification
+
+### Outputs
+<img width="1074" height="689" alt="Screenshot 2026-01-12 133745" src="https://github.com/user-attachments/assets/4cded7e9-459f-4cc6-b7fc-0e26986cd78d" />
+
+<img width="922" height="313" alt="Screenshot 2026-01-12 134248" src="https://github.com/user-attachments/assets/765fb41a-b9b1-46b4-9f47-752f900e8fbb" />
+
+<img width="948" height="403" alt="Screenshot 2026-01-12 140952" src="https://github.com/user-attachments/assets/31e2e2d3-f104-4328-8836-61321827af3f" />
+
+<img width="1867" height="921" alt="Screenshot 2026-01-12 205245" src="https://github.com/user-attachments/assets/189d1739-2718-4120-9b0e-cde598e3f2be" />
+
+
+
