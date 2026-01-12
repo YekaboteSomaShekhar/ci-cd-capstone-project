@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Deploying to staging..."
+docker-compose -f docker-compose.staging.yml pull
+docker-compose -f docker-compose.staging.yml down
+docker-compose -f docker-compose.staging.yml up -d

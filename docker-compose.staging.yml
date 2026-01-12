@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: stage_user
+      POSTGRES_PASSWORD: stage_pass
+      POSTGRES_DB: stagedb
+
+  backend:
+    image: yekabotesomashekhar11/backend:latest
+    env_file: .env.staging
+
+  frontend:
+    image: yekabotesomashekhar11/frontend:latest
