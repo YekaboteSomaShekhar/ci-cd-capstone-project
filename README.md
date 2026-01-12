@@ -36,3 +36,7 @@ ci-cd-docker-project/
 └── README.md
 
 ```
+
+## GitHub Actions Workflow
+
+<img width="1055" height="595" alt="Screenshot 2026-01-12 172709" src="https://github.com/user-attachments/assets/40214411-9dc6-4a3b-81cd-81776647197d" />
