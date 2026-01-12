@@ -37,6 +37,11 @@ ci-cd-docker-project/
 
 ```
 
-## GitHub Actions Workflow
+## GitHub Actions Architecture
 
 <img width="1055" height="595" alt="Screenshot 2026-01-12 172709" src="https://github.com/user-attachments/assets/40214411-9dc6-4a3b-81cd-81776647197d" />
+
+## GitHub Actions Workflow
+
+<img width="1157" height="474" alt="Screenshot 2026-01-12 203415" src="https://github.com/user-attachments/assets/bdf381a4-fe43-40f5-b234-c8b702e9bba4" />
+
