@@ -83,6 +83,8 @@ FLASK_ENV=staging
 7. Health checks & verification
 
 ### Outputs
+
+**Frontend check:** http://localhost:8080
 <img width="1074" height="689" alt="Screenshot 2026-01-12 133745" src="https://github.com/user-attachments/assets/4cded7e9-459f-4cc6-b7fc-0e26986cd78d" />
 
 <img width="922" height="313" alt="Screenshot 2026-01-12 134248" src="https://github.com/user-attachments/assets/765fb41a-b9b1-46b4-9f47-752f900e8fbb" />
