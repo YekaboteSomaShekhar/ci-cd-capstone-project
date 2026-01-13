@@ -90,6 +90,10 @@ FLASK_ENV=staging
 **Backened health check:** http://localhost:5000/health
 <img width="816" height="337" alt="Screenshot 2026-01-12 133457" src="https://github.com/user-attachments/assets/f0ead034-34c9-47cd-a0ca-6fa6c73a0b38" />
 
+### Checking the docker images
+```
+docker ps
+```
 <img width="922" height="313" alt="Screenshot 2026-01-12 134248" src="https://github.com/user-attachments/assets/765fb41a-b9b1-46b4-9f47-752f900e8fbb" />
 
 <img width="948" height="403" alt="Screenshot 2026-01-12 140952" src="https://github.com/user-attachments/assets/31e2e2d3-f104-4328-8836-61321827af3f" />
