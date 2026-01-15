@@ -104,5 +104,11 @@ docker images
 ### In docker desktop we can see that frontened and backened images
 <img width="1867" height="921" alt="Screenshot 2026-01-12 205245" src="https://github.com/user-attachments/assets/189d1739-2718-4120-9b0e-cde598e3f2be" />
 
+### Commands used
 
+- By using the below command it automatically builds the application.
+
+```
+docker compose up --build -d
+```
 
