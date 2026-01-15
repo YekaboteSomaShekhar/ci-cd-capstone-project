@@ -112,3 +112,10 @@ docker images
 docker compose up --build -d
 ```
 
+## Security
+
+**Integrated security checks:**
+
+- Dependency vulnerabilities via Trivy
+- Non-root container user
+- Minimal runtime images
