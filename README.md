@@ -111,7 +111,11 @@ docker images
 ```
 docker compose up --build -d
 ```
+- The docker compose down command is used to stop and remove the containers, networks, and default volumes that were created by docker compose up.
 
+```
+docker compose down
+```
 ## Security
 
 **Integrated security checks:**
@@ -119,3 +123,5 @@ docker compose up --build -d
 - Dependency vulnerabilities via Trivy
 - Non-root container user
 - Minimal runtime images
+
+## Conclusion
