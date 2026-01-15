@@ -95,6 +95,7 @@ FLASK_ENV=staging
 docker ps
 ```
 <img width="922" height="313" alt="Screenshot 2026-01-12 134248" src="https://github.com/user-attachments/assets/765fb41a-b9b1-46b4-9f47-752f900e8fbb" />
+
 ```
 docker images
 ```
