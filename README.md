@@ -95,7 +95,9 @@ FLASK_ENV=staging
 docker ps
 ```
 <img width="922" height="313" alt="Screenshot 2026-01-12 134248" src="https://github.com/user-attachments/assets/765fb41a-b9b1-46b4-9f47-752f900e8fbb" />
-
+```
+docker images
+```
 <img width="948" height="403" alt="Screenshot 2026-01-12 140952" src="https://github.com/user-attachments/assets/31e2e2d3-f104-4328-8836-61321827af3f" />
 
 ### In docker desktop we can see that frontened and backened images
