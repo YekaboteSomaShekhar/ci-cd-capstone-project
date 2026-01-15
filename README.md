@@ -125,3 +125,5 @@ docker compose down
 - Minimal runtime images
 
 ## Conclusion
+
+In conclusion, the implementation of multi-stage Docker builds, automated testing, vulnerability scanning, and scripted deployments illustrates the value of a fully automated CI/CD system for containerized applications. The resulting workflow reduces manual effort, enforces repeatability, and ensures that code changes are validated and securely deployed to staging environments.
